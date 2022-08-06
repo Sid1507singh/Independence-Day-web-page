@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Indenpendence day</title>
+    <style>
+        *{
+            margin: 0%;
+            padding: 0%;
+        }
+        body{
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: 100%,95%;
+        }
+        
+    </style>
+</head>
+<body background="national.jpg">
+    
+    <marquee behavior="alternative">
+       <font size="+6" font color="black">
+        दिल हमारे एक हैं एक ही है हमारी जान, हिंदुस्तान हमारा है हम हैं इसकी शान, जान लुटा देंगे वतन पे हो जायेंगे कुर्बान, इसलिए हम कहते हैं मेरा भारत महान।
+       </font>
+    </marquee>
+    <br><br><br><br>
+    <img src="army-.jpg"  width=19%  align="right" />
+    <img src="mapp.gif" width=20% >
+    <b><figcaption>Listen to the Maa tujhe salam song :</figcaption></b>
+        <audio
+            controls
+            src="Maa-Tujhe-Salaam(PaglaSongs).mp3" type="mpeg">
+                Your browser does not support the
+                <code>audio</code> element.
+        </audio>
+    </figure>
+    <br><br><br><br><br><br><br><br><br><br><br>
+    <marquee behavior="alternative">
+        <font size="+8" font color="Orange">
+        Happy 75th Indenpendence Day !(“A country's greatness lies in its undying ideals of love and sacrifice that inspire the mothers of race.”)
+        </font>
+    
+    
+</body>
+</html>
